@@ -5,7 +5,7 @@ FORCE11 宣言
 
 改善未來的研究傳播與電子化學術知識 (e-scholarship)
 
-編輯：Phil E. Bournea, Tim Clarkb, Rober Dalec, Anita de Waardd, Ivan Hermane, Eduard Hovyf, 及 David Shottong
+編輯：Phil E. Bourne, Tim Clark, Rober Dale, Anita de Waard, Ivan Herman, Eduard Hovy, 及 David Shotton
 
 貢獻者：Bradley P. Allen (d), Aliaksandr Birukou (h), Judith A. Blake (i), Philip E. Bourne (a), Simon Buckingham Shum (j), Gully A.P.C. Burns (f), Leslie Chan (k), Olga Chiarcos (l), Paolo Ciccarese (b), Tim Clark (b), Laura Czerniewicz (m), Robert Dale (c), Anna De Liddo (j), David De Roure (g), Anita de Waard (d), Stefan Decker (n), Alex Garcia Castro (o), Carole Goble (p), Eve Gray (m), Paul Groth (q), Udo Hahn (r), Ivan Herman (e), Eduard H. Hovy (f), Michael J. Kurtz (s), Fiona Murphy (t), Cameron Neylon (u), Steve Pettifer (p), Mike W. Rogers (v), David S. H. Rosenthal (w), David Shotton (g), Jarkko Siren (v), Herbert van de Sompel (x), Peter van den Besselaar (q) 及 Todd Vision (y)
 
